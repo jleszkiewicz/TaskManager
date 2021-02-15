@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/TaskManager/static/css/main.000caf3c.chunk.css",
+    "main.js": "/TaskManager/static/js/main.37c5b7e6.chunk.js",
+    "main.js.map": "/TaskManager/static/js/main.37c5b7e6.chunk.js.map",
+    "runtime-main.js": "/TaskManager/static/js/runtime-main.6f7e5b50.js",
+    "runtime-main.js.map": "/TaskManager/static/js/runtime-main.6f7e5b50.js.map",
+    "static/js/2.298fcfe5.chunk.js": "/TaskManager/static/js/2.298fcfe5.chunk.js",
+    "static/js/2.298fcfe5.chunk.js.map": "/TaskManager/static/js/2.298fcfe5.chunk.js.map",
+    "index.html": "/TaskManager/index.html",
+    "static/css/main.000caf3c.chunk.css.map": "/TaskManager/static/css/main.000caf3c.chunk.css.map",
+    "static/js/2.298fcfe5.chunk.js.LICENSE.txt": "/TaskManager/static/js/2.298fcfe5.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/TaskManager/static/media/Malinda.4063ff6c.otf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6f7e5b50.js",
+    "static/js/2.298fcfe5.chunk.js",
+    "static/css/main.000caf3c.chunk.css",
+    "static/js/main.37c5b7e6.chunk.js"
+  ]
+}
